@@ -9,7 +9,10 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "GitHub": "https://github.com/AldeRoberge/AGX-Wiki",
-      "Discord Community": "http://discord.aliengarden.com/",
+      "Discord": "http://discord.aliengarden.com/",
+      "Google Play": "http://googleplay.aliengarden.com/",
+      "Itch.io": "http://itch.aliengarden.com/",
+      "Steam": "http://steam.aliengarden.com/"
     },
   }),
 }
