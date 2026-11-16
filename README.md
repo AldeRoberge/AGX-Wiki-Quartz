@@ -1,15 +1,17 @@
+<!-- lang -->**Français** | [English](README.en.md)
+
 # Quartz v4
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> « [Une personne] qui travaille la porte ouverte subit toutes sortes d'interruptions, mais elle obtient aussi à l'occasion des indices sur ce qu'est le monde et sur ce qui pourrait être important. » — Richard Hamming
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Quartz est un ensemble d'outils qui vous aide à publier gratuitement votre [jardin numérique](https://jzhao.xyz/posts/networked-thought) et vos notes sous forme de site Web.
+Quartz v4 propose une réécriture complète à partir de zéro, axée sur l'extensibilité par les utilisateurs et la facilité d'utilisation.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+🔗 Lisez la documentation et lancez-vous : https://quartz.jzhao.xyz/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+[Joignez-vous à la communauté Discord](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
+## Commanditaires
 
 <p align="center">
   <a href="https://github.com/sponsors/jackyzha0">
